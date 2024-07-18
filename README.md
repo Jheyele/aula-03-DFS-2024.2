@@ -1,3 +1,3 @@
 npm install
 
-node indes
+node index
