@@ -1,3 +1,5 @@
+// ***************************************** DEMO COM MODULO HTTP *****************************************
+
 // const http = require('http')
 
 // const server = http.createServer((request, response) => {
@@ -8,7 +10,7 @@
 //     console.log("Running server")
 // })
 
-
+// ***************************************** DEMO COM MODULO EXPRESS *****************************************
 // const express = require('express')
 
 // const app = express();
@@ -64,7 +66,7 @@
 //     console.log("Running server")
 // })
 
-
+// ***************************************** DEMO COM MODULOS EXPRESS E PG *****************************************
 
 const express = require('express')
 const pg = require('pg')
